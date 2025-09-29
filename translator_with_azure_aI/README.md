@@ -1,6 +1,6 @@
 # PDF Translator with Azure AI
 
-This project implements a **PDF translator** using **Azure Cognitive Services Translator**. It was developed to **translate PDF documents** automatically into a target language and save the results as Word `.docx` files.
+This project implements a **PDF translator** using **Azure AI Translator**. It was developed to **translate PDF documents** automatically into a target language and save the results as Word `.docx` files.
 
 ## Features
 - **PDF Translation**
